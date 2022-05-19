@@ -245,12 +245,30 @@ public class Practice {
 //            System.out.println(st.nextToken());
 //        }
 
-        ArrayList<Integer> arr = new ArrayList<>();
-        arr.add(1);
-        arr.add(3);
-        arr.add(5);
+//        ArrayList<Integer> arr = new ArrayList<>();
+//        arr.add(1);
+//        arr.add(3);
+//        arr.add(5);
+//
+//        System.out.println(arr.indexOf(2));
 
-        System.out.println(arr.indexOf(2));
+        /**
+         *  비트 연산 과정
+         */
+
+//        System.out.println(1<<4);
+
+        /**
+         *  set.add 반환 값 확인
+         */
+
+//        Set<String> set = new HashSet<>();
+
+//        첫 값 저장 시 true 처리
+//        System.out.println(set.add("1"));
+
+//        중복이라 false 처리
+//        System.out.println(set.add("1"));
 
 
     }
